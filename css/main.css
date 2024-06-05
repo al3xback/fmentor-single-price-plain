@@ -14,15 +14,6 @@ ul {
 	list-style: none;
 }
 
-img {
-	display: block;
-	max-width: 100%;
-}
-
-button {
-	font: inherit;
-}
-
 h1,
 h2,
 h3 {
