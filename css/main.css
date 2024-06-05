@@ -33,7 +33,7 @@ h3 {
 }
 
 h2 {
-	font-size: 2.4rem;
+	font-size: 2rem;
 }
 
 h3 {
@@ -74,7 +74,7 @@ body {
 }
 
 .btn--primary {
-	padding: 1.2rem;
+	padding: 0.85em;
 	background-color: #c0df34;
 	border-color: #c0df34;
 	border-radius: 4px;
@@ -232,6 +232,7 @@ h3.card__title {
 
 	h2.card__title {
 		font-size: 2.4rem;
+		margin-bottom: 2.4rem;
 	}
 
 	.card__subtitle {
