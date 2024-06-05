@@ -1,0 +1,22 @@
+{
+	"name": "fmentor-single-price-plain",
+	"version": "1.0.0",
+	"description": "single price grid component using plain mode",
+	"main": "index.js",
+	"scripts": {
+		"lint": "prettier --write ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/al3xback/fmentor-single-price-plain.git"
+	},
+	"author": "alex <al3xback@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/al3xback/fmentor-single-price-plain/issues"
+	},
+	"homepage": "https://github.com/al3xback/fmentor-single-price-plain#readme",
+	"devDependencies": {
+		"prettier": "^2.8.8"
+	}
+}
